@@ -26,8 +26,5 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-![ConnorPark's GitHub stats](https://github-readme-stats.vercel.app/api?username=connorcoco&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=connorcoco&layout=compact&theme=dracula)
-
 
 </div>
